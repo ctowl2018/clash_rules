@@ -1,0 +1,11 @@
+payload:
+- DOMAIN-KEYWORD,ofiii
+- DOMAIN-KEYWORD,hinet
+- DOMAIN-KEYWORD,4gtv
+- DOMAIN-KEYWORD,mytvsuper
+- IPCIDR,85.237.0.0/16,no-resolve
+- DOMAIN-KEYWORD,ntdofifreevcpc
+- DOMAIN-KEYWORD,ifreepc
+- DOMAIN-SUFFIX,litv.tv
+# - GEOIP,TW,no-resolve
+
